@@ -20,7 +20,7 @@ Aşağıdakileri yap:
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
 
-let surucuYasi = 21;
+let surucuYasi = 17;
 if( surucuYasi > 18 ){
   console.log(true)
 } else {
@@ -122,7 +122,7 @@ function oyun(oyuncu, bilgisayar) {
    function bilgisayarinSecimi() {
    
    }
-2. Fonsiyonun içinde bilgisayarın seçimi için bir değişken tanımla
+2. Fonksiyonun içinde bilgisayarın seçimi için bir değişken tanımla
 3. Math.random'ı kullanarak bilgisayarın seçimini oluşturun (Math.random 0-1 arasında bir değer verecek)
 4. Bu rastgele değeri "Taş", "Kağıt" veya "Makas"a dönüştüren bir koşul oluşturun
 5. Oluşan değeri geri dönün
